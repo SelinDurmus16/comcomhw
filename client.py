@@ -1,5 +1,6 @@
 import socket
 #Selin Durmus 150220771 
+#Erblina Nivokazi 150200917
 #After running server.py, in terminal, you will be asked:
 #File name, error rate, window size
 

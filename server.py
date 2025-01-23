@@ -2,6 +2,7 @@ import socket
 import time
 import random as rd
 #Selin Durmus 150220771 
+#Erblina Nivokazi 150200917
 #After running server.py, in terminal, you will be asked:
 #File name, error rate, window size
 
